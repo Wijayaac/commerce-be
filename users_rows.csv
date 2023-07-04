@@ -1,0 +1,2 @@
+id,name,email,email_verified_at,password,role,profile_picture,remember_token,created_at,deleted_at
+1,Wijaya,wijayatesting.app@gmail.com,,123,user,,,,
