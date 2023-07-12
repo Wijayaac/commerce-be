@@ -5,6 +5,7 @@ CREATE TABLE "products" (
   "price" float,
   "description" varchar,
   "stock" integer,
+  "image_url" text,
   "created_at" timestamp,
   "deleted_at" timestamp
 );
